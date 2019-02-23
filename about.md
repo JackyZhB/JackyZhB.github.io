@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: 友情链接
 permalink: /about/
 ---
 
-友情链接-节操满满的 blog(http://www.augustor.com/)
+[节操满满的 blog](http://www.augustor.com/)
